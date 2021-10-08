@@ -6,5 +6,6 @@
   My Blog: https://dev.to/ishakmohmed
   <br>
   Mail: ishakmohmed1911@gmail.com
+  <br>
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
