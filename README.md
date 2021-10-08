@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello programmers! .<br> I'm a software engineer from Malaysia.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
+  <samp>Hello programmers! .<br> I'm a software engineer from Malaysia.<br><br></samp>
   <br>
   <br>
   <br>
